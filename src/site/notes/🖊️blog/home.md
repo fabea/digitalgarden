@@ -3,6 +3,12 @@
 ---
 
 
-# A test page
+# f as in `flapdoodle` instead of `fabea`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am phd student who never really works. 
+
+Previously, I served as the chief necromancer in a nameless dungeon.
+
+Eternity is not what I desire, but ruthless serenity has always been.
+
+I will share some random tricks and thoughts, anyway.
