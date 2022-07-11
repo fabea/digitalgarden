@@ -8,7 +8,7 @@
 ## About me
 I am a doctoral student who never really works. Currently, I am a Ph.D. candidate in the [School of Languages, Literacies & Translation](https://ppblt.usm.my/) of [University of Science, Malaysia](http://www.usm.my/). My research themes are `technology-enhanced translator/interpreter training`, `text mining in language and social science`, `learning-oriented classroom assessment`. My Ph.D. journey started since January of 2022. 
 
-Previously, I served as the chief necromancer in a nameless dungeon. I taught `computer-assissted translaton`, `introduction to translation studies` and `introductory interpreting` at the[School of Foreign Langauges](https://www.xyafu.edu.cn/wgyxy/) in [Xinyang Agriculture and Forestry University](https://www.xyafu.edu.cn/).
+Previously, I served as the chief necromancer in a nameless dungeon. I taught `computer-assissted translaton`, `introduction to translation studies` and `introductory interpreting` at the [School of Foreign Langauges](https://www.xyafu.edu.cn/wgyxy/) in [Xinyang Agriculture and Forestry University](https://www.xyafu.edu.cn/).
 
 Eternity is not what I desire, but ruthless serenity has always been. I am ambitious in applying state-of-the-art technologies in language learning, translation/interpreting training. 
 
