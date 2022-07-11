@@ -14,6 +14,14 @@ Eternity is not what I desire, but ruthless serenity has always been. I am ambit
 
 I will share some random tricks and thoughts, anyway. However, they are not intented to be well-structured. 
 
+## Research Methods
+Here are some of my sharings in digging ressearch methods:
+
+## Tools 
+Tips in using software to solve real problems, for myself and for others:
+
+## Ph.D Reflections
+Some personal reflections on the right choices I have made and the detours I should have avoided. They shall be hit-or-miss, though.
 
 ## My contribution to the `Necronomicon`
 
