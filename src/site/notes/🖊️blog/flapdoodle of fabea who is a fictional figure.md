@@ -16,7 +16,7 @@ Previously, I served as the chief interpreting trainer in an undergraduate unive
 
 I am ambitious in applying state-of-the-art technologies in language learning, translation/interpreting training.  I strive to bring innovation and creativity to language acquision and translator/interpreter competence building.
 
-My academic profile could be viewed from [Google Scholar](https://scholar.google.com/citations?user=28WTkNkAAAAJ&hl=en), [ORCID](https://www.scopus.com/authid/detail.uri?authorId=57192956833), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192956833), and [Web of Science](https://www.webofscience.com/wos/author/record/47620763).
+My academic profile could be viewed from [Google Scholar](https://scholar.google.com/citations?user=28WTkNkAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-1265-9772), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192956833), and [Web of Science](https://www.webofscience.com/wos/author/record/47620763).
 
 In this website I will share [[🖊️blog/Sharings|🖊️blog/Sharings]] some random tricks and thoughts. However, they are not intented to be well-structured. 
 
