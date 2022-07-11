@@ -31,5 +31,6 @@ Hit-or-miss reflections on the right choices I have made and the detours I shoul
 4. Yang, M., & **Yan, D.** (2016). The translation strategies for Chinese diplomatic neologisms from the perspective of “Political Equivalence”. *Babel. Revue Internationale de La Traduction / International Journal of Translation, 62(4)*, 661–675. [https://doi.org/10.1075/babel.62.4.07yan](https://doi.org/10.1075/babel.62.4.07yan)  `ssci/ahci-indexed journal paper` `jcr q4`
 
 ---
-*Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will.*
+> *Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will.*
+
 (c) 2022, [fabea](https://www.870603.xyz/)
