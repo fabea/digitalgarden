@@ -16,14 +16,16 @@ Previously, I served as the chief interpreting trainer in an undergraduate unive
 
 I am ambitious in applying state-of-the-art technologies in language learning, translation/interpreting training.  I strive to bring innovation and creativity to language acquision and translator/interpreter competence building.
 
+My academic profile could be viewed from [Google Scholar](https://scholar.google.com/citations?user=28WTkNkAAAAJ&hl=en), [ORCID](https://www.scopus.com/authid/detail.uri?authorId=57192956833), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192956833), and [Web of Science](https://www.webofscience.com/wos/author/record/47620763).
+
 In this website I will share [[🖊️blog/Sharings|🖊️blog/Sharings]] some random tricks and thoughts. However, they are not intented to be well-structured. 
 
 ---
 ## My Publications:
 
-1. **Yan, D.**, & Wang, J. (2022). Teaching data science to undergraduate translation trainees: Pilot evaluation of a task-based course. *Frontiers in Psychology, 13, 939689.* [https://doi.org/10.3389/fpsyg.2022.939689](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.939689/abstract)`ssci-indexed journal paper` `jcr q1`
-3. **Yan, D.** (2022). Cognitive bases of second language fluency. Norman Segalowitz (Ed.), Routledge (2010), 258 pages, ISBN:978-0-8058-5662-0. *Porta Linguarum Revista Interuniversitaria de Didáctica de Las Lenguas Extranjeras, 38.* [https://doi.org/10.30827/portalin.vi38.23934](https://doi.org/10.30827/portalin.vi38.23934) `book-review` `ssci-/ahci-indexed journal` `jcr q3`
-4. Yang, M., & **Yan, D.** (2016). The translation strategies for Chinese diplomatic neologisms from the perspective of “Political Equivalence”. *Babel. Revue Internationale de La Traduction / International Journal of Translation, 62(4)*, 661–675. [https://doi.org/10.1075/babel.62.4.07yan](https://doi.org/10.1075/babel.62.4.07yan)  `ssci/ahci-indexed journal paper` `jcr q4`
+1. **Yan, D.**, & Wang, J. (2022). Teaching data science to undergraduate translation trainees: Pilot evaluation of a task-based course. *Frontiers in Psychology, 13, 939689.* [https://doi.org/10.3389/fpsyg.2022.939689](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.939689/abstract) `research paper``ssci-indexed journal` `jcr q1`
+3. **Yan, D.** (2022). Cognitive bases of second language fluency. Norman Segalowitz (Ed.), Routledge (2010), 258 pages, ISBN:978-0-8058-5662-0. *Porta Linguarum Revista Interuniversitaria de Didáctica de Las Lenguas Extranjeras, 38.* [https://doi.org/10.30827/portalin.vi38.23934](https://doi.org/10.30827/portalin.vi38.23934) `book-review` `ssci/ahci-indexed journal` `jcr q3`
+4. Yang, M., & **Yan, D.** (2016). The translation strategies for Chinese diplomatic neologisms from the perspective of “Political Equivalence”. *Babel. Revue Internationale de La Traduction / International Journal of Translation, 62(4)*, 661–675. [https://doi.org/10.1075/babel.62.4.07yan](https://doi.org/10.1075/babel.62.4.07yan)  `research paper` `ssci/ahci-indexed journal` `jcr q4`
 
 ---
 > *Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will.*
