@@ -21,9 +21,9 @@ Here are some of my sharings in digging ressearch methods:
 Tips in using software to solve real problems, for myself and for others:
 
 ## Ph.D Reflections
-Some personal reflections on the right choices I have made and the detours I should have avoided. They shall be hit-or-miss, though.
+Hit-or-miss reflections on the right choices I have made and the detours I should have avoided:
 
-## My contribution to the `Necronomicon`
+## My contribution to the `Necronomicon` :
 
 1. **Yan, D.**, & Wang, J. (2022). Teaching data science to undergraduate translation trainees: Pilot evaluation of a task-based course. *Frontiers in Psychology, 13, 939689.* https://doi.org/10.3389/fpsyg.2022.939689 `ssci-indexed journal paper` `jcr q1`
 3. **Yan, D.** (2022). Cognitive bases of second language fluency. Norman Segalowitz (Ed.), Routledge (2010), 258 pages, ISBN:978-0-8058-5662-0. *Porta Linguarum Revista Interuniversitaria de Didáctica de Las Lenguas Extranjeras, 38.* https://doi.org/10.30827/portalin.vi38.23934 `book-review` `ssci-/ahci-indexed jounral` `jcr q3`
