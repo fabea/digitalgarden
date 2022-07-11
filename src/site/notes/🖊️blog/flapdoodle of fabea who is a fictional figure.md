@@ -36,5 +36,5 @@ Hit-or-miss reflections on the right choices I have made and the detours I shoul
 
 ---
 > *Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will.*
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 (c) 2022, [fabea](https://www.870603.xyz/). 
