@@ -5,6 +5,7 @@
 
 # f as in `flapdoodle` instead of `fabea`
 
+## About me
 I am doctoral student who never really works. Currently, I am a Ph.D. candidate of the [School of Languages, Literacies & Translation](https://ppblt.usm.my/) in [University of Science, Malaysia](http://www.usm.my/). My research themes are `technology-enhanced translator/interpreter training`, `text mining in language and social science`, `learning-oriented classroom assessment`. My Ph.D. journey started since January of 2022. 
 
 Previously, I served as the chief necromancer in a nameless dungeon. I taught `computer-assissted translaton`, `introduction to translation studies` and `introductory interpreting` at the[School of Foreign Langauges](https://www.xyafu.edu.cn/wgyxy/) in [Xinyang Agriculture and Forestry University](https://www.xyafu.edu.cn/).
