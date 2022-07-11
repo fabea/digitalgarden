@@ -22,5 +22,5 @@ I will share some random tricks and thoughts, anyway. However, they are not inte
 4. Yang, M., & **Yan, D.** (2016). The translation strategies for Chinese diplomatic neologisms from the perspective of “Political Equivalence”. *Babel. Revue Internationale de La Traduction / International Journal of Translation, 62(4)*, 661–675. https://doi.org/10.1075/babel.62.4.07yan  `ssci/ahci-indexed journal paper` `jcr q4`
 
 ---
-`What man created, man can destroy`
+*What man created, man can destroy*
 (c) 2022, [fabea](https://www.870603.xyz/)
