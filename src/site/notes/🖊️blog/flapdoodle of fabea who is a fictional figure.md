@@ -20,7 +20,7 @@ My academic profile could be viewed from [Google Scholar](https://scholar.google
 
 In this website I will share [[🖊️blog/Sharings|🖊️blog/Sharings]] some random tricks and thoughts. However, they are not intented to be well-structured. 
 
-Here are my [[🖊️blog/milestones|🖊️blog/milestones]] of my Ph.D. journey.
+Here are my [[🖊️blog/Ph.D. Milestones|🖊️blog/Ph.D. Milestones]] of my Ph.D. journey.
 
 
 ---
